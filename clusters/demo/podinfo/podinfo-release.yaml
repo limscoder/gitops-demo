@@ -18,3 +18,5 @@ spec:
     replicaCount: 2
     ui:
       message: hello world!
+    service:
+      type: NodePort
